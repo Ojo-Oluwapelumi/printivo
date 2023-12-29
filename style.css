@@ -1,0 +1,123 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.head {
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: space-between; */
+    /* border: 2px solid black; */
+    background-color: #f7f6f4;
+  
+}
+.h1{
+    display: flex;
+    justify-content: space-between ;
+    gap: 10px;
+   /* grid-template-columns: 10fr 10fr 10fr 1fr; */
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.h2{
+    margin-left: 370px;
+    margin-top: 20px;
+    font-family: "SF Pro", sans-serif;;
+    font-size: 13px;
+    font-weight: 600;
+    color: #506683;
+}
+.h3{
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.big{
+    height: 450px;
+    background-color: #ece8d9;
+   
+}
+.inn{
+    display: flex;
+}
+.print{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.inn1{
+    display: flex;
+    justify-content: space-between ;
+    gap: 20px;
+    margin-left: 300px;
+    margin-top: 20px;
+    
+}
+.inn2{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.inn3{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.inn4{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.qua{
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: 67px;
+    /* font-weight: 400; */
+    line-height: 40px;
+    color: #384a62;
+    font-style: normal;
+    font-family: "dm serif display", serif;;
+}
+.shi{
+    margin-left: 100px;
+    margin-top: 15px;
+    font-family: "SF Pro", sans-serif;;
+    font-size: 24px;
+    font-weight: 600px;
+    color: #708095;
+    line-height: 32px;
+}
+.what{
+    margin-left: 100px;
+    margin-top: 40px;
+    font-family: "SF Pro", sans-serif;;
+    font-size: 16px;
+    font-weight: 700px;
+    color: #384a62;
+    line-height: 24px;
+}
+.input{
+    width: 650px;
+    height: 70px;
+    margin-left: 100px;
+    border: none;
+    border-radius: 3%;
+    font-weight: 300;
+}
+.svg{
+   transform: translateX(-50px
+   )
+}
+.card{
+margin-left: 950px;
+transform: translateY(-250px);
+}
+.pink{
+    background-color: #f3b1cd;
+    height: 80px;
+    text-align:center;
+}
+.gift{
+   transform: translateY(100px);
+}
+.popu{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
